@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 scikit-learn = "^1.4.0"
 yfinance = "^0.2.36"
+matplotlib = "^3.8.2"
 
 
 [build-system]
